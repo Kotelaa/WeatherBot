@@ -1,3 +1,5 @@
+TokenData.py
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,pycharm,windows
 
@@ -311,7 +313,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# End of https://www.toptal.com/developers/gitignore/api/python,pycharm,windows!/TokenData.py
-!/TokenData.py
-!/TokenData.py
